@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[/01/2026]`  
+**Datum:** `[20/01/2026]`  
 **Studentnaam:** `[Rune Mary]`  
 **Groepsnaam:** `[Autonomous]`
 
@@ -10,16 +10,23 @@
 
 > **Activiteiten:**
 
+- Home pagina in css afgewerkt.
+- Product pagina gemaakt in html & css.
+
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**
 
+- horizontale scroll in css toepassen.
+
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 > **Algmeeen gevoel:**
+
+- tevreden
 
 ---
