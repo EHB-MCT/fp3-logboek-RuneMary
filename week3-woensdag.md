@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[27/01/2026]`  
+**Datum:** `[28/01/2026]`  
 **Studentnaam:** `[Rune Mary]`  
 **Groepsnaam:** `[Autonomous]`
 
@@ -10,10 +10,9 @@
 
 > **Activiteiten:**
 
-- css responsive afgewerkt voor tablet.
-- kleine aanpassingen gemaakt in html.
-- Aymane meegeholpen met de hero afbeelding.
-- instagram carousel aan gewerkt (bijna klaar).
+- instagram carousel afgewerkt + feedback verwerkt van docent.
+- chibi 3d print afgewerkt.
+- instagram reel gemaakt (bijna klaar).
 
 ---
 
@@ -29,8 +28,7 @@
 
 > **Algmeeen gevoel:**
 
-- moe
-- afgelost (full projects bijna klaar)
-- tevreden
+- afgelost (bijna klaar met alle taken)
+- tevreden (blij hoe alles is verlopen en alles eruit ziet)
 
 ---
